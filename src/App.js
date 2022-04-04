@@ -22,6 +22,8 @@ function App() {
 
   return (
       <div class="container">
+
+<h1>Social login</h1>
         <Card style={{ width: '600px' }}>
           <Card.Header>
             {!login &&
